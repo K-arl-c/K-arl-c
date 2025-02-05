@@ -8,7 +8,7 @@ I'm Karl Campbell (@K-arl-c) on my journey to Full Development
 
 <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" width="21" height="21" alt="linkedin"> [LinkedIn](https://www.linkedin.com/in/karl-campbell-9a1477253/)
 
-<img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" width="21" />&nbsp; [Email](karlcampbell100@gmail.com)
+<img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" width="21" />&nbsp; [Email](mailto:karlcampbell100@gmail.com)
 
 
 
