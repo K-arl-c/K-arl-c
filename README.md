@@ -1,6 +1,6 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm Karl Campbell (@K-arl-c) on my journey to Full Development
+I'm Karl Campbell (@K-arl-c) on my journey to Full-Stack Development
 - 👀 I’m interested in all things music 
 - 🌱 I’m currently learning at _nology and looking to get stuck into more creative endeavors
 
