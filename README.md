@@ -11,7 +11,7 @@ I'm Karl Campbell (@K-arl-c) on my journey to Full-Stack Development
 
 
 
-| &nbsp;&nbsp;&nbsp; View my Portfolio here : [Portfolio](https://k-arl-c.github.io/web-project/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; </sub>
+| &nbsp;&nbsp;&nbsp; View my Portfolio [here](https://k-arl-c.github.io/web-project/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; </sub>
 
 
 
