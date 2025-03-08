@@ -1,21 +1,18 @@
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+# 💫 About Me:
+Hi there! I’m Karl, a Full-Stack Software Engineer with a background in Compliance Analysis. After honing my skills in high-performance, fast-paced environments, I decided to transition into the world of tech to pursue my passion for solving complex problems through code. I recently completed an intensive software engineering bootcamp, where I gained hands-on experience building full-stack applications using technologies like JavaScript, TypeScript, Java, and SQL.<br>
 
-I'm Karl Campbell (@K-arl-c) on my journey to Full-Stack Development
-- 🌱 I’m currently learning at _nology and looking to get stuck into more creative endeavors
-
-<h3>📫 Connnect with me!</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" width="21" height="21" alt="linkedin"> [LinkedIn](https://www.linkedin.com/in/karl-campbell-9a1477253/)
-
-<img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" width="21" />&nbsp; [Email](mailto:karlcampbell100@gmail.com)
+Feel free to explore my repositories to see the projects I’ve worked on – from simple games to more complex full-stack applications. If you're interested in connecting or collaborating, don’t hesitate to reach out! <br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karl-campbell-9a1477253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karlcampbell100@gmail.com) 
 
-| &nbsp;&nbsp;&nbsp; View my Portfolio [here](https://k-arl-c.github.io/web-project/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; </sub>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=k-arl-c&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=k-arl-c&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-<!---
-K-arl-c/K-arl-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
