@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there! I’m Karl, a Full-Stack Software Engineer with a background in Compliance Analysis. After honing my skills in high-performance, fast-paced environments, I decided to transition into the world of tech to pursue my passion for solving complex problems through code. I recently completed an intensive software engineering bootcamp, where I gained hands-on experience building full-stack applications using technologies like JavaScript, TypeScript, Java, and SQL.<br>
+Hi there! I’m Karl, a Full-Stack Software Engineer with a background in Compliance Analysis. After honing my skills in high-performance, fast-paced environments, I decided to transition into the world of tech to pursue my passion for solving complex problems through code. I recently completed an intensive software engineering academy with _nology. Here, I gained hands-on experience building full-stack applications using technologies like JavaScript, TypeScript, Java, and SQL.<br>
+
+When I'm not coding away, I'm listening to music and / or attending events live! I adore the mastery in creative storytelling and would love to use this passion to develop creative projects! 🎵
 
 Feel free to explore my repositories to see the projects I’ve worked on – from simple games to more complex full-stack applications. If you're interested in connecting or collaborating, don’t hesitate to reach out! <br>
 
