@@ -5,7 +5,7 @@ When I'm not coding away, I'm listening to music and / or attending events live!
 
 Feel free to explore my repositories to see the projects I’ve worked on – from simple games to more complex full-stack applications. If you're interested in connecting or collaborating, don’t hesitate to reach out! <br>
 
-| &nbsp;&nbsp;View my Portfolio [here](https://k-arl-c.github.io/web-project/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; </sub>
+| &nbsp;&nbsp;View my Portfolio [here](https://k-arl-c.github.io/portfolio/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; </sub>
 
 
 
